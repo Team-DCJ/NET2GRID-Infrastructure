@@ -25,7 +25,7 @@ This repo contains:
 
 ***
 
-### Below is the Porject scenario with outlined objectives:   
+### Below is the Project scenario with outlined objectives:   
 Scenario B: NET2GRID
 
 * Your team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition, NET2GRID. NET2GRID is a young, innovative company that offers leading-edge AI and machine learning services in energy insights based on smart meter data whose vision of a world with sustainable energy aligns well with the mission of GlobeX; unfortunately, its IT systems do not.
